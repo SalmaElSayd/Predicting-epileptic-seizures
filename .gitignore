@@ -19,3 +19,10 @@
 /balanced_train_gen
 /nondiff_sum_5
 /nondiff_sum_5_overlap
+/cwt
+/min10_2
+/nodiff_nonorm_10
+/nodiff_normalised_10
+/nodiff_normalised_5
+/nodiff_normalised_5_overlap
+/zero_crossings
